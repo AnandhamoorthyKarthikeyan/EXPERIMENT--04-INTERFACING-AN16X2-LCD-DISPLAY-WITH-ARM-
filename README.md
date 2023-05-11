@@ -174,7 +174,6 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -289,18 +288,21 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif 
+
 ```
 
 
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2023-05-11 112241](https://github.com/AnandhamoorthyKarthikeyan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119475998/e675a7b1-bc4d-43ed-9f7c-d3365f066e19)
+![Screenshot 2023-05-11 153833](https://github.com/AnandhamoorthyKarthikeyan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119475998/e06418de-9847-494c-9b0f-7c3fee35fe89)
+
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Screenshot 2023-05-11 112319](https://github.com/AnandhamoorthyKarthikeyan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119475998/aec1ef5e-542a-427b-90f4-50ee5fbb5ff5)
+![Screenshot 2023-05-11 153848](https://github.com/AnandhamoorthyKarthikeyan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119475998/f74b058d-edad-44e8-8b08-cb4248175ebc)
+
 
  
  
